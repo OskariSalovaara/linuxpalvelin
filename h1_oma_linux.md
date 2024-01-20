@@ -1,3 +1,4 @@
+# Linux asennus
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/asennus1.png?raw=true)
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/asennus2.png?raw=true)
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/asennus3.png?raw=true)
