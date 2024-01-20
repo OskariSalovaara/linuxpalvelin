@@ -1,1 +1,1 @@
-
+![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/asennus1.png?raw=true)
