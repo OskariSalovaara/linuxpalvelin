@@ -8,7 +8,7 @@ Virtual box asennus asetukset ei ongelmia tässä vaiheessa
 Virtual box asennuksen jälkeen netti ja näppäimistä toimii moitteetta
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/asennus5.png?raw=true)
 
-
+Linux asennuksen kanssa tai käyttäjän luomisessa ei ongelmia.
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/asennus6.png?raw=true)
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/asennus7.png?raw=true)
 
