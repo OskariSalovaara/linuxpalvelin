@@ -6,6 +6,7 @@
 
 ## A
 Micro editor asennus komento ei ongelmia.
+
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2a.png?raw=true)
 ## B
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2b.png?raw=true)
