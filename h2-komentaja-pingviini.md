@@ -9,7 +9,12 @@ Micro editor asennus komento ei ongelmia.
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2a.png?raw=true)
 ## B
+Asennus onnistui.
+
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2b.png?raw=true)
+
+Komento listaa virtuaalikoneen käytössä olevat
+
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2bb.png?raw=true)
 ## C
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2c.png?raw=true)
