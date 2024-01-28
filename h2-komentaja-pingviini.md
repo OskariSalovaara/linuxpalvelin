@@ -17,6 +17,8 @@ Komento listaa virtuaalikoneen käytössä olevat osat ja asetettujen resurssien
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2bb.png?raw=true)
 ## C
+Kolmen ohjelman asennus kerrallaan onnistui
+
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2c.png?raw=true)
 ## D
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2d.png?raw=true)
