@@ -5,6 +5,7 @@
 - Käytä tab näppäintä tiedostojen nimien ja polkujen kirjoittamiseen
 
 ## A
+![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2a.png?raw=true)
 ## B
 ## C
 ## D
