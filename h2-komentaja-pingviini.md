@@ -13,7 +13,7 @@ Asennus onnistui.
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2b.png?raw=true)
 
-Komento listaa virtuaalikoneen käytössä olevat
+Komento listaa virtuaalikoneen käytössä olevat osat ja asetettujen 
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2bb.png?raw=true)
 ## C
