@@ -30,9 +30,7 @@ Esimerkkejä grep komennon käytöstä ja putken käytöstä
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2e.png?raw=true)
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2ee.png?raw=true)
 ## G
-Komento epäonnistui, koska se oli kirjoitettu väärin
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2g.png?raw=true)
-Komento onnistui
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h2gg.png?raw=true)
