@@ -1,0 +1,3 @@
+- echo "Default"|sudo tee /var/www/html/index.html korvaa oletus sivun
+- name-based virtual hosting antaa monen hostin käyttää samaa ip-osoitetta
+- name-based virtual hosting valitsee sopimman hostin rajatessaan lähimpää ip pariin
