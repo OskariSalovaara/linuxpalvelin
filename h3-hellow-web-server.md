@@ -21,7 +21,7 @@ Uusien asetusten aktivointi
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3cc.png?raw=true)
 
-
+Sivun luonti ja sen testaus curl komennoilla
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3ccc.png?raw=true)
 ## E
@@ -29,6 +29,6 @@ Html5 sivun luonti
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3e.png?raw=true)
 
-
+html5 sivu toimii
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3ee.png?raw=true)
