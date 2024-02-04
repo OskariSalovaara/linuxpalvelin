@@ -5,8 +5,6 @@
 Testaus onnistui
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3a.png?raw=true)
-## B
-Asennus onnistui.
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3aa.png?raw=true)
 ## B
