@@ -2,7 +2,7 @@
 - name-based virtual hosting antaa monen hostin käyttää samaa ip-osoitetta
 - name-based virtual hosting valitsee sopimman hostin rajatessaan lähimpää ip pariin
 ## A
-Micro editor asennus komento ei ongelmia.
+Testaus onnistui
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3a.png?raw=true)
 ## B
