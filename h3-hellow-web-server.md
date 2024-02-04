@@ -9,6 +9,7 @@ Testaus onnistui
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3aa.png?raw=true)
 ## B
 
+
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3b.png?raw=true)
 ## C
 
