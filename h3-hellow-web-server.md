@@ -12,7 +12,7 @@ Ensimmäinen päivämäärä on apachen asennus ja käynnistys päivä
 Toinen päivämäärä on sivun aktivointi päivämäärä
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3b.png?raw=true)
-## C
+## C ja f
 Uusi name based virtual host
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3c.png?raw=true)
