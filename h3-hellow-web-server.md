@@ -13,8 +13,11 @@ Toinen päivämäärä on sivun aktivointi päivämäärä
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3b.png?raw=true)
 ## C
+Uusi name based virtual host
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3c.png?raw=true)
+
+
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3cc.png?raw=true)
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3ccc.png?raw=true)
 ## E
