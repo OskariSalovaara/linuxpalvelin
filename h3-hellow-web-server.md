@@ -9,7 +9,7 @@ Testaus onnistui
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3aa.png?raw=true)
 ## B
 Ensimmäinen päivämäärä on apachen asennus ja käynnistys päivä
-Toinen päivämäärä on 
+Toinen päivämäärä on sivun aktivointi päivämäärä
 
 ![Alt text](https://github.com/OskariSalovaara/linuxpalvelin/blob/main/images/h3b.png?raw=true)
 ## C
